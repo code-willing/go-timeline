@@ -1,4 +1,4 @@
-module github.com/code-willing/timeline
+module github.com/code-willing/go-timeline
 
 go 1.12
 
